@@ -44,4 +44,4 @@ jobs:
       - name: Build and Push Without Buildx
         run: |
           docker build -t us-east1-docker.pkg.dev/cs2060-spring-2024/build-and-push-image/node-demo:v1 .
-          docker push us-east1-docker.pkg.dev/cs2060-spring-2024//build-and-push-image/node-demo:v1
+          docker push us-east1-docker.pkg.dev/cs2060-spring-2024/build-and-push-image/node-demo:v1
