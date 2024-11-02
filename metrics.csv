@@ -1,0 +1,9 @@
+TimeSeries ID,workload_identity_federation/count.iam.googleapis.com/WorkloadIdentityPoolProvider.ALIGN_RATE.REDUCE_SUM.metric.type="iam.googleapis.com/workload_identity_federation/count" resource.type="iam.googleapis.com/WorkloadIdentityPoolProvider" metric.label."result"="success".60s.pool_id:github.project_id:cs2060-spring-2024
+pool_id,github
+project_id,cs2060-spring-2024
+Sat Nov 02 2024 17:28:00 GMT-0400 (北美东部夏令时间),0.02499958332638877
+Sat Nov 02 2024 17:29:00 GMT-0400 (北美东部夏令时间),0.033333611115740826
+Sat Nov 02 2024 17:30:00 GMT-0400 (北美东部夏令时间),0.008333472224537074
+Sat Nov 02 2024 17:33:00 GMT-0400 (北美东部夏令时间),0.03333277776851836
+Sat Nov 02 2024 17:34:00 GMT-0400 (北美东部夏令时间),0.058333472224537074
+Sat Nov 02 2024 17:35:00 GMT-0400 (北美东部夏令时间),0.02500041667361123
